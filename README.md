@@ -6,3 +6,5 @@
   <li>Uses Post Method</li></ul></p>
   <h2>Open Source Code</h2>
   <p>Feel free to use this code however you like.<br />Happy coding!</p>
+  <h2>Let's work together!</h2>
+  <p>See something that can be better?<br />Want to add or take away features?<br />Whatever the reason, let's work together!</p>
