@@ -3,7 +3,6 @@
 <h2>Security Features</h2>
 <p><ul><li>JavaScript Injection Protection</li>
   <li>User Input Data Sanitation</li>
-  <li>Strip Slashes</li>
   <li>Uses Post Method</li></ul></p>
   <h2>Open Source Code</h2>
   <p>Feel free to use this code however you like.<br />Happy coding!</p>
